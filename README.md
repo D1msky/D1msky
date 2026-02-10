@@ -50,8 +50,11 @@ I build backend systems that serve millions of users across Indonesia's largest 
 ### GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=D1msky&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1msky&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D1msky&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D1msky&theme=github_dark" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=D1msky&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
