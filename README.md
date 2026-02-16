@@ -37,25 +37,23 @@ I build backend systems that serve millions of users across Indonesia's largest 
 ---
 
 ### Things I'm Proud Of
-
-- Architected a referral system serving **10,000+ merchants**, driving 15% acquisition growth
-- Optimized caching strategy that cut API response time by **60%** and scaled to **15,000 concurrent users**
-- Led an app overhaul that pushed Play Store rating from **2.9 to 4.1**
-- Built payment systems processing **10,000+ monthly transactions** across Android, iOS & Huawei
 - Received **Best MDP Award 2022** — recognized by Indomaret's President Director
 - Graduated with **GPA 3.98/4.00** — highest in department for 3 consecutive years
 
 ---
 
-### GitHub Stats
+### What I Build
 
-<p>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=D1msky&theme=github_dark" alt="GitHub Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=D1msky&theme=github_dark" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=D1msky&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+Systems that power **23,000+ Indomaret stores** across Indonesia:
+
+- **Indopaket Platform** — end-to-end delivery service (Android, iOS, Huawei, Web, CMS). Integrated 16+ courier partners with unified status tracking.
+- **i.saku Payment Integration** — e-wallet payment system with voucher mechanics, built to BI standards.
+- **Logistics Infrastructure** — Redis caching optimization, RabbitMQ messaging, and API integration hub serving millions of daily transactions.
+
+> Most of my work lives in private/enterprise repositories.
+> Check out my full portfolio for project details, interactive demos, and more.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-dimassanjaya.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dimassanjaya.com)
 
 ---
 
